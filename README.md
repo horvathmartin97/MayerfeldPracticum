@@ -4,22 +4,6 @@ Preview Link: https://horvathmartin97.github.io/MayerfeldPracticum/
 
 A multi-page static HTML website built as a practicum project. The site includes pages dedicated to favorite books, movies, hobbies, TV shows, and more.
 
-## 📁 Project Structure
-MayerfeldPracticum/
-├── images/ # Image assets
-├── pages/
-│ ├── detailedHinikgPage.html
-│ ├── detailedMbPage.html
-│ ├── detailedVgPage.html
-│ ├── favoriteBooks.html
-│ ├── favouriteMovies.html
-│ ├── geoStormPage.html
-│ ├── HobbiesPage.html
-│ ├── onePiecePage.html
-│ ├── tedLassoPage.html
-└── index.html # Home page
-
-
 ## 📄 Pages Overview
 
 | Page | Description |
